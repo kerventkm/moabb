@@ -269,7 +269,7 @@ python-versions = "*"
 
 [[package]]
 name = "mne"
-version = "0.23.4"
+version = "0.17.2"
 description = "MNE python project for MEG and EEG data analysis."
 category = "main"
 optional = false
